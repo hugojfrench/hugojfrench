@@ -1,28 +1,22 @@
 # 👋 Hi, I'm Hugo Jorge French (@hugojfrench)
 
-I'm a junior web developer with a background in interdisciplinary sciences and a strong drive to build clean, purposeful, and user-friendly software. After studying at UCL and managing a specialty coffee kiosk, I pivoted into tech through an intensive coding bootcamp—and haven't looked back.
+Junior web developer with a background in interdisciplinary sciences and a drive to build clean, purposeful software. After studying at UCL and managing a specialty coffee kiosk, I pivoted into tech through an intensive bootcamp—and haven’t looked back.
 
-## 💻 Currently Working On
-🧠 **InspoForge** – an AI-powered idea generator to help creatives and entrepreneurs spark new projects. Built with Ruby on Rails, Hotwire, and OpenAI.
+## 💻 Current Projects
+🧠 **InspoForge** – AI-powered idea generator for creatives and entrepreneurs (Rails, Hotwire, OpenAI)  
+⚽ **Draft FPL Tools** – Fantasy football companion for tracking stats, trades & league performance
 
-⚽ **Draft FPL Tools** – a fantasy football companion app focused on advanced stats, trade logic, and league tracking for Draft Fantasy Premier League.
-
-## 🌱 Learning & Exploring
-- Strengthening my **Ruby on Rails** skills by building full-stack apps from scratch
-- Writing cleaner, more maintainable code using **Object-Oriented Programming** and **MVC principles**
-- Diving deeper into **JavaScript** for interactivity and front-end logic
-- Exploring how to use **APIs**, background jobs, and external services (like OpenAI) to build powerful features
+## 🌱 Learning
+- Building full-stack Rails apps with clean, maintainable code
+- Sharpening **JavaScript** for front-end logic
+- Working with **APIs**, background jobs, and AI tools like OpenAI
 
 ## 🤝 Open to Collaborate On
-- Side projects that help people do meaningful things, especially in education, mental health, or community-building
-- Tools that combine creativity + utility (e.g. AI, music, or football-related)
-- Anything that helps me level up as a developer 💪
+Meaningful tools in education, mental health, or community spaces – especially those combining creativity + utility.
 
-## 📫 Reach Me At
-- Email: [hugojfrench@icloud.com](mailto:hugojfrench@icloud.com)
-- LinkedIn: [linkedin.com/in/hugo-j-french](https://www.linkedin.com/in/hugo-j-french)
+## 📫 Connect  
+[![Email](https://img.shields.io/badge/email-hugojfrench%40icloud.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:hugojfrench@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hugo--j--french-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hugo-j-french)
 
 ## 🧩 Fun Bits
-- Fluent in English & French 🇬🇧🇫🇷  
-- Based in London, dreaming of Lisbon ☀️  
-- Vinyl collector, football nerd, and coffee connoisseur 🎷⚽☕️  
+🇬🇧🇫🇷 Bilingual | ☀️ London → Lisbon (one day) | ⚽🎶☕️ Football, vinyl, and great coffee
