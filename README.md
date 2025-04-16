@@ -3,7 +3,7 @@
 Junior web developer with a background in interdisciplinary sciences and a drive to build clean, purposeful software. After studying at UCL and managing a specialty coffee kiosk, I pivoted into tech through an intensive bootcamp—and haven’t looked back.
 
 ## 💻 Current Projects
-🧠 **Forge** – AI-powered idea generator for creatives and entrepreneurs (Rails, Hotwire, OpenAI)  
+🧠 **Forge** ⬇️ – AI-powered idea generator for creatives and entrepreneurs (Rails, Hotwire, OpenAI)
 ⚽ **Draft FPL Tools** – Fantasy football companion for tracking stats, trades & league performance
 
 ## 🌱 Learning
