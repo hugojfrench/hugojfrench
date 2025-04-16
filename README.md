@@ -20,7 +20,7 @@ I'm a junior web developer with a background in interdisciplinary sciences and a
 
 ## 📫 Reach Me At
 - Email: [hugojfrench@icloud.com](mailto:hugojfrench@icloud.com)
-- LinkedIn: [linkedin.com/in/hugojfrench](https://www.linkedin.com/in/hugo-j-french)
+- LinkedIn: [linkedin.com/in/hugo-j-french](https://www.linkedin.com/in/hugo-j-french)
 
 ## 🧩 Fun Bits
 - Fluent in English & French 🇬🇧🇫🇷  
